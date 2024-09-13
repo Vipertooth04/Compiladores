@@ -1,7 +1,2 @@
-int main() {
-    int x = 42;
-    char c = 'a';
-    if (x >= 10) {
-        print(x);
-    }
-}
+a : integer = 1;
+c++;
